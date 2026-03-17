@@ -294,10 +294,9 @@ If you like this project, give it a ⭐ on GitHub!
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](![dashboard main](https://github.com/user-attachments/assets/5ba2e14d-497f-495a-987c-a67054df5b22)
-)
+[dashboard main](https://github.com/user-attachments/assets/5ba2e14d-497f-495a-987c-a67054df5b22)
+
 
 ### Temperature Page
-![Temperature](![dashboard temperature](https://github.com/user-attachments/assets/15f7fc80-d0c9-4a05-ae5c-418c79a5889b)
-)
+[dashboard temperature](https://github.com/user-attachments/assets/15f7fc80-d0c9-4a05-ae5c-418c79a5889b)
 
